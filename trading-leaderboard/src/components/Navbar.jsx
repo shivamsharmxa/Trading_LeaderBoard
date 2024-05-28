@@ -14,16 +14,16 @@ const Navbar = () => {
         <AppBar position="static" style={{ backgroundColor: '#ffffff', color: '#000000' }}>
             <Toolbar>
                 <Box display="flex" flexGrow={1} alignItems="center">
-                    <img src="/logo.png" alt="Company Logo" style={{ height: 40, marginRight: 20 }} />
-                    <Typography variant="h6" style={{ color: '#0d6efd' }}>Company Name</Typography>
+                    <img src="https://unfluke.in/static/media/cropped_unfluke_full.148e5bfc.png" alt="Company Logo" style={{ height: 40, marginRight: 20 }} />
+                    
                 </Box>
                 <IconButton color="inherit">
                     <Badge badgeContent={4} color="secondary">
-                        <NotificationsIcon style={{ color: 'rgb(226, 116, 152)' }} />
+                        <NotificationsIcon style={{ color: 'rgb(42 50 46)' }} />
                     </Badge>
                 </IconButton>
                 <Box display="flex" alignItems="center" marginLeft={2} marginRight={2}>
-                    <MonetizationOnIcon style={{ color: 'rgb(226, 116, 152)' }} />
+                    <MonetizationOnIcon style={{ color: 'rgb(255 211 70)' }} />
                     <Typography variant="body1" style={{ marginLeft: 5, color: '#000000' }}>$12345</Typography>
                 </Box>
                 <IconButton color="inherit">
