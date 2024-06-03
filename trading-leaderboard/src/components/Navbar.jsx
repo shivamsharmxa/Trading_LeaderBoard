@@ -24,7 +24,7 @@ const Navbar = () => {
                 </IconButton>
                 <Box display="flex" alignItems="center" marginLeft={2} marginRight={2}>
                     <MonetizationOnIcon style={{ color: 'rgb(255 211 70)' }} />
-                    <Typography variant="body1" style={{ marginLeft: 5, color: '#000000' }}>$12345</Typography>
+                    <Typography variant="body1" style={{ marginLeft: 5, color: '#000000' }}>$10000</Typography>
                 </Box>
                 <IconButton color="inherit">
                     <AccountCircle style={{ color: 'rgb(226, 116, 152)' }} />

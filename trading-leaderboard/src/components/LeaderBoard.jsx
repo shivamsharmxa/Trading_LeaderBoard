@@ -131,7 +131,7 @@ const Leaderboard = () => {
                 </Box>
                 <Box mt={4} textAlign="center">
                     <Button variant="outlined" color="primary">
-                        Load More
+                        Load More for
                     </Button>
                 </Box>
             </Paper>
